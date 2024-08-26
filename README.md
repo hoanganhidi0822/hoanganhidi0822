@@ -1,6 +1,6 @@
-# 💻 Phan Văn Hoàng Anh
+# 💻 Phan Van Hoang Anh
 
-**Automation & Embedded Systems Engineer** | **IoT Enthusiast** | **Innovator**
+**Automation & Embedded Systems Engineer** | **Innovator**
 
 ---
 
@@ -16,40 +16,30 @@ I am an **Automation and Embedded Systems Engineer** passionate about developing
 
 ## 🚀 Projects
 
-### 🔌 [Smart Home Automation System](#)
-*A comprehensive IoT-based system that automates and controls home appliances using ESP32, MQTT, and Node-RED.*
-
-- **Features:** 
-  - Remote control via a mobile app.
-  - Automated lighting and climate control based on sensor data.
-  - Real-time monitoring and alerts.
-- **Tech Stack:** C++, MQTT, Node-RED, ESP32, DHT11, Relay Modules.
-
-### 🤖 [Autonomous Robotics System](#)
-*A modular robotics system that navigates autonomously using a combination of LiDAR, ultrasonic sensors, and GPS.*
+### 🤖 [Autonomous Car](#)
+*A fully functional autonomous car project integrating sensor fusion, real-time processing, and advanced control algorithms to navigate and avoid obstacles autonomously.*
 
 - **Features:**
-  - Obstacle detection and avoidance using SICK TIM310 LiDAR.
-  - Path planning and navigation.
-  - Data logging and real-time monitoring.
-- **Tech Stack:** C++, ROS, STM32, LiDAR, GPS.
+  - **Obstacle Detection and Avoidance:** Utilizes LiDAR (SICK TIM310) and ultrasonic sensors to detect and navigate around obstacles.
+  - **Path Planning:** Implements A* algorithm for optimal pathfinding and navigation.
+  - **Sensor Fusion:** Combines data from LiDAR, GPS, and IMU for precise localization and movement.
+  - **Real-Time Processing:** Uses STM32 microcontroller for real-time control and decision-making.
 
-### 🌡️ [Industrial Temperature Monitoring](#)
-*An industrial-grade system for monitoring and controlling the temperature in server rooms, ensuring optimal conditions.*
+- **Tech Stack:**
+  - **Languages:** C++, Python, Embedded C
+  - **Microcontrollers:** STM32
+  - **Sensors:** SICK TIM310 LiDAR, Quectel L80 GPS, MPU6050 IMU, Ultrasonic Sensors
+  - **Frameworks:** Pytorch
+  - **Communication Protocols:** UART, I2C, SPI
 
-- **Features:**
-  - Real-time data acquisition using Modbus RTU.
-  - Automated alarms and notifications for out-of-range conditions.
-  - Historical data visualization using Grafana.
-- **Tech Stack:** Embedded C, Modbus RTU, ESP32, Grafana, Node-RED.
+- **Project Highlights:**
+  - **Control Algorithms:** Implemented PID and S-curve motion control for smooth steering and velocity adjustments.
 
 ---
 
 ## 📈 Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+---
 
 ---
 
@@ -64,7 +54,6 @@ I am an **Automation and Embedded Systems Engineer** passionate about developing
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Website/Portfolio:** [Your Website](https://yourwebsite.com)
+- **Email:** [[My email](https://www.facebook.com/phan.hoanganh.562/)]
+- **Facebook:** [My Facebook](https://www.facebook.com/phan.hoanganh.562/)]
 
