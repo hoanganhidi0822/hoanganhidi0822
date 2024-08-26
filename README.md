@@ -55,5 +55,5 @@ I am an **Automation and Embedded Systems Engineer** passionate about developing
 ## 📫 Get in Touch
 
 - **Email:** [[My email](https://www.facebook.com/phan.hoanganh.562/)]
-- **Facebook:** [My Facebook](https://www.facebook.com/phan.hoanganh.562/)]
+- **Facebook:** [[My Facebook](https://www.facebook.com/phan.hoanganh.562/)]
 
