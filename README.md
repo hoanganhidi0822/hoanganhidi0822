@@ -1,62 +1,54 @@
-Hi, I'm Phan Van Hoàng Anh
+# Hi, I'm Phan Van Hoàng Anh
 
 Autonomous Systems • Embedded AI • Embedded Systems
 
-I am an engineering student specializing in Control and Automation, focusing on autonomous vehicles, embedded AI, and real-time perception systems. I build end-to-end modules ranging from sensor fusion and perception to motion control on real hardware platforms such as Jetson Orin and STM32.
+I am an engineering student specializing in Control and Automation, focusing on autonomous vehicles, embedded AI, and real-time perception systems. I build end-to-end modules ranging from sensor fusion and perception to motion control on real hardware platforms such as NVIDIA Jetson and STM32.
 
 I enjoy designing practical, deployable systems that combine AI models, multi-sensor data, and embedded control.
 
-What I Work On
+---
 
-Autonomous driving systems
+## What I Work On
+- Autonomous driving systems  
+- AI perception on edge devices (YOLO, DepthAnything, SegFormer)  
+- Multi-sensor fusion: GPS RTK, IMU, camera  
+- Real-time control and embedded development  
+- Robotics and intelligent systems  
 
-AI perception on edge devices (YOLO, DepthAnything, SegFormer)
+---
 
-Multi-sensor fusion: GPS RTK, IMU, camera
+## Technical Skills
 
-Real-time control and embedded development
+### Languages
+- C, C++, Python
 
-Robotics and intelligent systems
+### AI / Perception
+- YOLO, DepthAnythingV2, SegFormer  
+- PyTorch, TensorRT
 
-Technical Skills
+### Embedded Systems
+- STM32, ESP32, Raspberry Pi  
+- UART, SPI, I2C, CAN  
 
-Languages
-C, C++, Python
+### Platforms
+- Jetson Orin Nano, Jetson AGX Orin  
+- Ubuntu, ROS2
 
-AI/Perception
-YOLO, DepthAnythingV2, SegFormer, PyTorch, TensorRT
+### Tools
+- Git, CMake, VSCode
 
-Embedded Systems
-STM32, ESP32, Raspberry Pi
-UART, SPI, I2C, CAN
+---
 
-Platforms
-Jetson Orin Nano, Jetson AGX Orin
-Ubuntu, ROS2 (in progress), PyQt5
+## Featured Work
 
-Tools
-Git, CMake, VSCode
+### Autonomous Golf Cart Platform
+Outdoor autonomous navigation system deployed on a real electric golf cart. Includes perception, depth estimation, segmentation, GPS RTK navigation, lane-following, and steering control.
 
-Featured Work
-Autonomous Golf Cart Platform
+### Embedded Motor Control
+Glitch-free PWM control and real-time motor handling on STM32 for robotics applications.
 
-Outdoor autonomous navigation system deployed on a real electric golf cart.
-Includes perception, depth estimation, segmentation, GPS RTK navigation, fallback lane-following, and steering control.
+---
 
-Learning-Based Inertial Navigation
-
-AI-IMU-DR implementation on KITTI dataset with PyTorch GPU optimization.
-
-Real-time Face Recognition UI
-
-Camera-based face detection integrated with PyQt5 for interaction workflows.
-
-Embedded Motor Control
-
-Glitch-free PWM control, real-time motion handling on STM32.
-
-Contact
-
-Email: hoanganh2282003@gmail.com
-
+## Contact
+Email: hoanganh2282003@gmail.com  
 Facebook: https://www.facebook.com/phan.hoanganh.562/
