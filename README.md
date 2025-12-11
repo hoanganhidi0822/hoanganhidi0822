@@ -1,59 +1,62 @@
-# 💻 Phan Van Hoang Anh
+Hi, I'm Phan Van Hoàng Anh
 
-**Automation & Embedded Systems Engineer** | **Innovator**
+Autonomous Systems • Embedded AI • Embedded Systems
 
----
+I am an engineering student specializing in Control and Automation, focusing on autonomous vehicles, embedded AI, and real-time perception systems. I build end-to-end modules ranging from sensor fusion and perception to motion control on real hardware platforms such as Jetson Orin and STM32.
 
-## 👋 About Me
-I am an **Automation and Embedded Systems Engineer** passionate about developing innovative solutions that bridge the gap between hardware and software. With a focus on **embedded systems**, **real-time processing**, and **automation**, I aim to create systems that make the world smarter and more efficient.
+I enjoy designing practical, deployable systems that combine AI models, multi-sensor data, and embedded control.
 
-- 🌱 **Currently Learning:** Advanced sensor fusion techniques, AI for edge devices.
-- 🔧 **Skills:** C/C++, Python, Embedded C, MQTT, Node-RED, Modbus, Circuit Design, PCB Layout.
-- 🎯 **Focus Areas:** IoT, Robotics, Automation, Industrial Automation.
-- 🛠 **Tools & Platforms:** Arduino, ESP32, Raspberry Pi, STM32.
+What I Work On
 
----
+Autonomous driving systems
 
-## 🚀 Projects
+AI perception on edge devices (YOLO, DepthAnything, SegFormer)
 
-### 🤖 [Autonomous Car](#)
-*A fully functional autonomous car project integrating sensor fusion, real-time processing, and advanced control algorithms to navigate and avoid obstacles autonomously.*
+Multi-sensor fusion: GPS RTK, IMU, camera
 
-- **Features:**
-  - **Obstacle Detection and Avoidance:** Utilizes LiDAR (SICK TIM310) and ultrasonic sensors to detect and navigate around obstacles.
-  - **Path Planning:** Implements A* algorithm for optimal pathfinding and navigation.
-  - **Sensor Fusion:** Combines data from LiDAR, GPS, and IMU for precise localization and movement.
-  - **Real-Time Processing:** Uses STM32 microcontroller for real-time control and decision-making.
+Real-time control and embedded development
 
-- **Tech Stack:**
-  - **Languages:** C++, Python, Embedded C
-  - **Microcontrollers:** STM32
-  - **Sensors:** SICK TIM310 LiDAR, Quectel L80 GPS, MPU6050 IMU, Ultrasonic Sensors
-  - **Frameworks:** Pytorch
-  - **Communication Protocols:** UART, I2C, SPI
+Robotics and intelligent systems
 
-- **Project Highlights:**
-  - **Control Algorithms:** Implemented PID and S-curve motion control for smooth steering and velocity adjustments.
+Technical Skills
 
----
+Languages
+C, C++, Python
 
-## 📈 Stats
+AI/Perception
+YOLO, DepthAnythingV2, SegFormer, PyTorch, TensorRT
 
----
+Embedded Systems
+STM32, ESP32, Raspberry Pi
+UART, SPI, I2C, CAN
 
----
+Platforms
+Jetson Orin Nano, Jetson AGX Orin
+Ubuntu, ROS2 (in progress), PyQt5
 
-## 🛠️ Skills & Tools
+Tools
+Git, CMake, VSCode
 
-- **Programming Languages:** C, C++, Python, Embedded C
-- **Microcontrollers:** ESP32, STM32, Arduino, Raspberry Pi
-- **Protocols:** MQTT, Modbus RTU/ASCII, I2C, SPI, UART
-- **Tools:** Node-RED, Git, VSCode,...
+Featured Work
+Autonomous Golf Cart Platform
 
----
+Outdoor autonomous navigation system deployed on a real electric golf cart.
+Includes perception, depth estimation, segmentation, GPS RTK navigation, fallback lane-following, and steering control.
 
-## 📫 Get in Touch
+Learning-Based Inertial Navigation
 
-- **Email:** [[My email](https://www.facebook.com/phan.hoanganh.562/)]
-- **Facebook:** [[My Facebook](https://www.facebook.com/phan.hoanganh.562/)]
+AI-IMU-DR implementation on KITTI dataset with PyTorch GPU optimization.
 
+Real-time Face Recognition UI
+
+Camera-based face detection integrated with PyQt5 for interaction workflows.
+
+Embedded Motor Control
+
+Glitch-free PWM control, real-time motion handling on STM32.
+
+Contact
+
+Email: hoanganh2282003@gmail.com
+
+Facebook: https://www.facebook.com/phan.hoanganh.562/
