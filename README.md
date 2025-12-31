@@ -1,4 +1,4 @@
-# Hi, I'm Phan Van Hoàng Anh
+# Hi, I'm Phan Van Hoang Anh
 
 Autonomous Systems • Embedded AI • Embedded Systems
 
